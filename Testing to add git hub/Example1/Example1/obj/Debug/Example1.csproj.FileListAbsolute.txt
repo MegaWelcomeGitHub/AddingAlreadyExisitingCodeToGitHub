@@ -1,0 +1,7 @@
+C:\Users\Megaraj\Desktop\Testing to add git hub\Example1\Example1\bin\Debug\Example1.exe.config
+C:\Users\Megaraj\Desktop\Testing to add git hub\Example1\Example1\bin\Debug\Example1.exe
+C:\Users\Megaraj\Desktop\Testing to add git hub\Example1\Example1\bin\Debug\Example1.pdb
+C:\Users\Megaraj\Desktop\Testing to add git hub\Example1\Example1\obj\Debug\Example1.csprojAssemblyReference.cache
+C:\Users\Megaraj\Desktop\Testing to add git hub\Example1\Example1\obj\Debug\Example1.csproj.CoreCompileInputs.cache
+C:\Users\Megaraj\Desktop\Testing to add git hub\Example1\Example1\obj\Debug\Example1.exe
+C:\Users\Megaraj\Desktop\Testing to add git hub\Example1\Example1\obj\Debug\Example1.pdb
